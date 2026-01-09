@@ -193,32 +193,112 @@ class AryanSakhala:
 
 ## 💼 Journey
 
-</div>
+<br/>
 
+<!-- TIMELINE CARDS -->
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/2024-NOW-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="2024"/>
+<br/>
+<img width="60" src="https://img.icons8.com/fluency/96/rocket.png" alt="rocket"/>
+</td>
+<td>
+
+**Lead Software Engineer** `@Metrum AI`
+
+<img src="https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=dell&logoColor=white" alt="Dell"/> <img src="https://img.shields.io/badge/Intel-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel"/> <img src="https://img.shields.io/badge/RAG-cba6f7?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/Agentic_AI-fab387?style=flat-square" alt="Agentic"/>
+
+```diff
++ RAG-based Agentic Workflows for Enterprise Clients
++ SuperCompute 2024 — Multi-Modal AI Showcase
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  🚀 2024 - NOW    Lead Software Engineer @ Metrum AI                        │
-│                   ├─ RAG-based Agentic Workflows for Dell & Intel           │
-│                   └─ SuperCompute 2024 Multi-Modal AI Showcase              │
-│                                                                              │
-│  🔬 2023 - 2024   Research Associate @ Vidyashilp University                │
-│                   ├─ ML/DS Research Publications                            │
-│                   └─ Teaching Assistant for Data Science                    │
-│                                                                              │
-│  🤖 2023 - 2024   ML Developer @ EvueMe Selection Robot                     │
-│                   ├─ Deep Learning for AI-based HR Bot                      │
-│                   └─ Dashboard API & Database Pipeline                      │
-│                                                                              │
-│  📊 2021 - 2023   Data Scientist @ Sirpi                                    │
-│                   ├─ Led 7-member team for Proofify (Blockchain)            │
-│                   └─ Analytics for IUDX (Gov. of India)                     │
-│                                                                              │
-│  🎓 2019 - 2023   B.E. Computer Engineering @ Pune University               │
-│                   └─ CGPA: 8.56 | Honors: AI/ML                             │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+
+</td>
+</tr>
+<tr><td colspan="2"><img width="100%" height="1" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></td></tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/2023-2024-89b4fa?style=for-the-badge&labelColor=1e1e2e" alt="2023"/>
+<br/>
+<img width="60" src="https://img.icons8.com/fluency/96/microscope.png" alt="research"/>
+</td>
+<td>
+
+**Research Associate** `@Vidyashilp University`
+
+<img src="https://img.shields.io/badge/Springer-FFA500?style=flat-square&logo=springer&logoColor=white" alt="Springer"/> <img src="https://img.shields.io/badge/SCOPUS-E9711C?style=flat-square" alt="SCOPUS"/> <img src="https://img.shields.io/badge/ESG+ML-94e2d5?style=flat-square" alt="ESG"/>
+
+```diff
++ Published: Springer LNNS | ISBM 2025 Bangkok
++ Teaching Assistant — Data Science Course
 ```
+
+</td>
+</tr>
+<tr><td colspan="2"><img width="100%" height="1" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></td></tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/2023-2024-a6e3a1?style=for-the-badge&labelColor=1e1e2e" alt="2023"/>
+<br/>
+<img width="60" src="https://img.icons8.com/fluency/96/bot.png" alt="bot"/>
+</td>
+<td>
+
+**ML Developer** `@EvueMe Selection Robot`
+
+<img src="https://img.shields.io/badge/Deep_Learning-f38ba8?style=flat-square" alt="DL"/> <img src="https://img.shields.io/badge/NLP-89dceb?style=flat-square" alt="NLP"/> <img src="https://img.shields.io/badge/HR_Tech-f9e2af?style=flat-square" alt="HR"/>
+
+```diff
++ AI-powered HR Bot — Talent Acquisition System
++ Dashboard API & Real-time Database Pipeline
+```
+
+</td>
+</tr>
+<tr><td colspan="2"><img width="100%" height="1" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></td></tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/2021-2023-f9e2af?style=for-the-badge&labelColor=1e1e2e" alt="2021"/>
+<br/>
+<img width="60" src="https://img.icons8.com/fluency/96/combo-chart.png" alt="analytics"/>
+</td>
+<td>
+
+**Data Scientist** `@Sirpi`
+
+<img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3"/> <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchaindotcom&logoColor=white" alt="Blockchain"/> <img src="https://img.shields.io/badge/Gov_of_India-FF9933?style=flat-square" alt="Gov"/>
+
+```diff
++ Led 7-member team — Proofify (Blockchain Doc Transfer)
++ Analytics for IUDX — India Urban Data Exchange
+```
+
+</td>
+</tr>
+<tr><td colspan="2"><img width="100%" height="1" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></td></tr>
+<tr>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/2019-2023-f5c2e7?style=for-the-badge&labelColor=1e1e2e" alt="2019"/>
+<br/>
+<img width="60" src="https://img.icons8.com/fluency/96/graduation-cap.png" alt="education"/>
+</td>
+<td>
+
+**B.E. Computer Engineering** `@Pune University`
+
+<img src="https://img.shields.io/badge/CGPA-8.56/10-a6e3a1?style=flat-square" alt="CGPA"/> <img src="https://img.shields.io/badge/Honors-AI/ML-cba6f7?style=flat-square" alt="Honors"/>
+
+```diff
++ Dr. D.Y. Patil Institute of Engineering
++ Specialized in Artificial Intelligence & Machine Learning
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
