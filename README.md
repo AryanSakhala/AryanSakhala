@@ -122,11 +122,11 @@ class AryanSakhala:
 ## 📊 GitHub Analytics
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AryanSakhala&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=fab387&text_color=cdd6f4&ring_color=b4befe" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=AryanSakhala&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=FAB387&currStreakLabel=94E2D5" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AryanSakhala&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=fab387&text_color=cdd6f4&ring_color=b4befe" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=AryanSakhala&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=FAB387&currStreakLabel=94E2D5&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=6C7086" alt="GitHub Streak"/>
 </p>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSakhala&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AryanSakhala&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4" alt="Top Languages"/>
 
 </div>
 
@@ -224,17 +224,17 @@ class AryanSakhala:
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanSakhala&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=fab387&area=true&area_color=b4befe&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanSakhala&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=fab387&area=true&area_color=313244&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 </div>
 
 <br/>
 
-<!-- SPOTIFY / NOW PLAYING -->
+<!-- QUOTE -->
 <div align="center">
 
-## 🎧 Vibing To
+## 💭 Random Dev Quote
 
-[![Spotify](https://novatorem-aryan.vercel.app/api/spotify?background_color=1e1e2e&border_color=313244)](https://open.spotify.com/user/AryanSakhala)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Dev Quote"/>
 
 </div>
 
