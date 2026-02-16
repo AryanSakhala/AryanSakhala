@@ -19,7 +19,7 @@ Building Intelligence | Shipping Impact
 - Open Source and ML Education
 
     </td>
-    <td width="50%" align="right" valign="top">
+    <td width="70%" align="right" valign="top">
       <img width="100%" src="assets/neofetch/bw_ascii.svg" alt="Black and White ASCII"/>
     </td>
   </tr>
