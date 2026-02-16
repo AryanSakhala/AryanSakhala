@@ -6,7 +6,7 @@
 -->
 
 <p align="left">
-  <img width="24%" src="assets/neofetch/bw_ascii.svg" alt="Black and White ASCII"/>
+  <img width="50%" src="assets/neofetch/bw_ascii.svg" alt="Black and White ASCII"/>
 </p>
 
 <div align="center">
