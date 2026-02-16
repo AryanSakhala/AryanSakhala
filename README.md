@@ -5,9 +5,25 @@
   ╚═══════════════════════════════════════════════════════════════════════════╝
 -->
 
-<p align="left">
-  <img width="50%" src="assets/neofetch/bw_ascii.svg" alt="Black and White ASCII"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+## Aryan Sakhala
+
+Lead Software Engineer at Metrum AI  
+Building Intelligence | Shipping Impact
+
+- RAG and Agentic AI Systems
+- Multi-Modal AI Pipelines
+- Open Source and ML Education
+
+    </td>
+    <td width="50%" align="right" valign="top">
+      <img width="100%" src="assets/neofetch/bw_ascii.svg" alt="Black and White ASCII"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
