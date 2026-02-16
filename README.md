@@ -5,6 +5,10 @@
   ╚═══════════════════════════════════════════════════════════════════════════╝
 -->
 
+<p align="left">
+  <img width="24%" src="assets/neofetch/bw_ascii.svg" alt="Black and White ASCII"/>
+</p>
+
 <div align="center">
 
 <!-- ANIMATED WAVE HEADER -->
@@ -102,75 +106,6 @@ class AryanSakhala:
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- NEOFETCH -->
-<div align="center">
-
-## NeoFetch
-
-<img width="70%" src="assets/neofetch/screenshot-2026-02-16-105620.png" alt="NeoFetch (Red)"/>
-
-</div>
-
-<details>
-<summary><b>Red ASCII (source)</b></summary>
-
-```text
-kkkkxxxxxxxxxxxxdddddodoooooooollllllll:,;;,
-kkkkkkkxxxxxxxxxddddddddddooooooolllllc,,:;;
-OOOkkkkkkxxxxxxdolllccccllcllooooolllc,,ccc:
-OOOOOkkkkkkkkxl;..............;:clool;;:ccc:
-OOOOOOkkkkkko,...................;ll;;clcc:;
-OOOOOOOOOkkd,...'',::;,,...........;c::cclc:
-OOOOOOOOOkkko:,oddl:;;,,,'..........:lc;:lcc
-OOOOOOOOOkxxxd::lccc::...'..........:ooc;:cc
-OOOOOOOOOOookocc;'::l;;:;,'. ... ..,oooll;,;
-OOOOOOOOOOxkxdo;;,:ooolc;;'..';;.;loooolllcl
-OOOOOOOOOOOkkx;..':ool::,'..,',;cdooooolllll
-OOOOOOOOOOkOkc:c:,'';;,,'...;c';doooooololll
-OOOOOOOOOOOOk;lccc:,.''''...'',ooooollllllll
-OOOOOOOOOOOOd';;,'.....'...'':oooooooodclccc
-OOOOOOOOOOOOk,............',,ldoooooool;o:cc
-OOOOOOOOOOOkkkdl;;''''...,,':oddoooool;''.;:
-OOOOOOOOOOkkkkkdloc:c;''',,';odoooooolll;,;:
-OOOOOOOOkOkddkO0Oocllc;,''.';;;coooooollllcc
-OOOOOOOO00Oxok0OOkdoc::,,;:::;;..,;:cllllclc
-OOO0O00xloOKOkOdOOOkxl';c::,'',;,,,,;::odlc:
-XNNXkkxOxxOKKXOOK00OOxc::;:;;,,:c:cc::,oxooc
-XXXXxOddxxkO0KOO00000k;.;codl;'colcl:;,dkldd
-```
-</details>
-
-<details>
-<summary><b>B/W ASCII</b></summary>
-
-```text
-kkkkxxxxxxxxxxxxdddddodoooooooollllllll:,;;,
-kkkkkkkxxxxxxxxxddddddddddooooooolllllc,,:;;
-OOOkkkkkkxxxxxxdolllccccllcllooooolllc,,ccc:
-OOOOOkkkkkkkkxl;..............;:clool;;:ccc:
-OOOOOOkkkkkko,...................;ll;;clcc:;
-OOOOOOOOOkkd,...'',::;,,...........;c::cclc:
-OOOOOOOOOkkko:,oddl:;;,,,'..........:lc;:lcc
-OOOOOOOOOkxxxd::lccc::...'..........:ooc;:cc
-OOOOOOOOOOookocc;'::l;;:;,'. ... ..,oooll;,;
-OOOOOOOOOOxkxdo;;,:ooolc;;'..';;.;loooolllcl
-OOOOOOOOOOOkkx;..':ool::,'..,',;cdooooolllll
-OOOOOOOOOOkOkc:c:,'';;,,'...;c';doooooololll
-OOOOOOOOOOOOk;lccc:,.''''...'',ooooollllllll
-OOOOOOOOOOOOd';;,'.....'...'':oooooooodclccc
-OOOOOOOOOOOOk,............',,ldoooooool;o:cc
-OOOOOOOOOOOkkkdl;;''''...,,':oddoooool;''.;:
-OOOOOOOOOOkkkkkdloc:c;''',,';odoooooolll;,;:
-OOOOOOOOkOkddkO0Oocllc;,''.';;;coooooollllcc
-OOOOOOOO00Oxok0OOkdoc::,,;:::;;..,;:cllllclc
-OOO0O00xloOKOkOdOOOkxl';c::,'',;,,,,;::odlc:
-XNNXkkxOxxOKKXOOK00OOxc::;:;;,,:c:cc::,oxooc
-XXXXxOddxxkO0KOO00000k;.;codl;'colcl:;,dkldd
-```
-</details>
 
 <br/>
 
